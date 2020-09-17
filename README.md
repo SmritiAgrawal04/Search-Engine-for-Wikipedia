@@ -7,8 +7,11 @@ It is an Information Retrieval system designed to help find information stored o
 How to run the project? 
 The various steps involved in building a search engine are as follows- 
 CRAWAL- First step is to download all the Wiki dump from dataurls.txt and rename them to *.xml. 
+
 INDEX- Next before performing a search our index should be ready and to prep that run all the cells of index.ipynb notebook after setting the path of the xml files in the main(). Also, create a new folder named "inverted_index" in current directory to hold you index files.
+
 (Note that this step might take 12-15 HOURS to complete depending on your sytem configs.)
+
 SEARCH- Now, we're ready to perform a search on multiple queries of your choice. (One may refer the sample_queries.txt file)
 ### Characterstics of the SE
 1) Fast & Accurate.
