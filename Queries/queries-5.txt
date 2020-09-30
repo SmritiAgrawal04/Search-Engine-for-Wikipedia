@@ -1,0 +1,25 @@
+10, b:Mask of light i:2003
+10, t:Virgin Islands r:geonames c:islands
+10, b:Speed of light c:Concepts in physics
+5, b:Californication Season
+10, Chongqing University
+10, Catcher in the Rye
+5, b:Californication i:1999
+20, t:Commonwealth Games i:melbourne b:Stolenwealth c:sports
+10, Blade Runner
+10, b:Prisoner of Azkaban i:2004
+10, Gandhi 1982
+20, i:Andrey Savin b:Speedway World Cup
+5, engel's law
+20, t:catcher in the rye i:axl rose b:madagascar c:2008 albums
+10, The Capture 1950
+10, b:Redmond i:Los Angeles Kings c:1965 births
+20, b:Vendetta c:Films about fascism
+20, Chomsky Grammar
+3, b:V for Vendetta i:2006
+5, young's modulus
+10, b:Speed of light c:Concepts in physics
+20, b:angus r:tories i:James Lee
+30, b:Taxicab 1729
+50, b:Marc Spector i:Marvel Comics c:1980 comics debuts
+100, Sudebnik

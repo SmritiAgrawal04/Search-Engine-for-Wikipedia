@@ -1,0 +1,25 @@
+5, t:catcher in the rye i:axl rose b:madagascar c:2008 albums
+20, Gandhi 1982
+10, Blade Runner
+10, b:William Owen c:English songwriters
+20, t:Virgin Islands r:geonames c:islands
+10, b:Vendetta c:Films about fascism
+20, t:Graveyard i:Goro Kishitani Shigenori Takechi
+5, t:Commonwealth Games i:melbourne b:Stolenwealth c:sports
+20, b:Californication Season
+10, lesbouefs somme
+10, b:Redmond i:Los Angeles Kings c:1965 births
+10, b:Dennis Lewiston c:1934 births
+10, engel's law
+5, b:Big Four i:Agatha Christie
+10, i:Andrey Savin b:Speedway World Cup
+10, Catcher in the Rye
+20, b:Prisoner of Azkaban i:1999
+10, b:Prisoner of Azkaban i:2004
+3, b:V for Vendetta i:2006
+5, young's modulus
+10, b:Speed of light c:Concepts in physics
+20, b:angus r:tories i:James Lee
+30, b:Taxicab 1729
+50, b:Marc Spector i:Marvel Comics c:1980 comics debuts
+100, Sudebnik

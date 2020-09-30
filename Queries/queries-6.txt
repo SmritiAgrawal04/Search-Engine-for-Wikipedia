@@ -1,0 +1,25 @@
+20, t:College Hoops 2K8 i:Xbox 360
+10, b:Speed of light c:Concepts in physics
+10, Sudebnik
+20, b:Vendetta c:Films about fascism
+5, t:russia tajikistan relation
+10, t:Wave S8500 i:bada c:Mobile phones introduced in 2010
+5, t:love b:Arrows
+10, Chomsky Grammar
+10, b:Mask of light i:2003
+10, b:1898 c:Leicester City Football League
+10, t:J. F. Drake Middle School
+20, Combat School
+10, b:Taxicab 1729
+10, t:It's All True c:films
+20, b:Dennis Lewiston c:1934 births
+10, t:Graveyard i:Goro Kishitani Shigenori Takechi
+5, b:Prisoner of Azkaban i:1999
+20, b:Prisoner of Azkaban i:2004
+3, b:V for Vendetta i:2006
+5, young's modulus
+10, b:Speed of light c:Concepts in physics
+20, b:angus r:tories i:James Lee
+30, b:Taxicab 1729
+50, b:Marc Spector i:Marvel Comics c:1980 comics debuts
+100, Sudebnik

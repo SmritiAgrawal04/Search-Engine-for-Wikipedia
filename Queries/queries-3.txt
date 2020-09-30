@@ -1,0 +1,25 @@
+20, b:Terence i:Fields Medal
+5, police chief association
+10, boeing 341
+5, b:1898 c:Leicester City Football League
+10, b:Dennis Lewiston c:1934 births
+10, The Capture 1950
+20, b:Speed of light c:Concepts in physics
+10, lesbouefs somme
+10, t:NFL quarterbacks b:passer rating
+20, b:Californication i:1999
+10, b:William Owen c:English songwriters
+10, i:Andrey Savin b:Speedway World Cup
+10, Blade Runner
+10, Chomsky Grammar
+20, b:Prisoner of Azkaban i:1999
+20, Toni Nadal i:Rafael Nadal
+5, v for vendetta
+10, Nolan Sisters 1979
+3, b:V for Vendetta i:2006
+5, young's modulus
+10, b:Speed of light c:Concepts in physics
+20, b:angus r:tories i:James Lee
+30, b:Taxicab 1729
+50, b:Marc Spector i:Marvel Comics c:1980 comics debuts
+100, Sudebnik

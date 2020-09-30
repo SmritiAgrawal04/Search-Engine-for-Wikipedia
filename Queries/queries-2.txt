@@ -1,0 +1,25 @@
+10, b:Californication, i:1999
+10, t:russia relation
+10, i:Andrey Savin, b:Speedway World Cup
+20, b:Mask of light, i:2003
+10, b:Redmond, i:Los Angeles Kings, c:1965 births
+10, Nolan Sisters 1979
+5, Catcher in the Rye
+10, police chief association
+10, b:1898, c:Leicester City Football League
+10, Chongqing University
+20, t:Virgin Islands, r:geonames, c:islands
+20, b:Dennis Lewiston, c:1934 births
+20, boeing 341
+5, b:Terence, i:Fields Medal
+10, b:Big Four, i:Agatha Christie
+10, b:Speed of light, c:Concepts in physics
+20, Blade Runner
+5, v for vendetta
+3, b:V for Vendetta, i:2006
+5, young's modulus
+10, b:Speed of light, c:Concepts in physics
+20, b:angus, r:tories, i:James Lee
+30, b:Taxicab 1729
+50, b:Marc Spector, i:Marvel Comics, c:1980 comics debuts
+100, Sudebnik
